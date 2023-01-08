@@ -1,0 +1,31 @@
+Hi, Following are the briefings:-
+
+NEW FILES CREATED:-
+ > Shape.java
+ > ShapesManager.java
+ 
+ FILES MODIFIED:-
+  > WindowCreator.java
+  > CustomPanel.java
+  > CustomWindow.java
+  
+  
+  TASKS DONE:-
+   > All Shapes ( circle, square, rectangle, quadrilateral ( with 3 constructors) ) were completed along with their relevant functions.
+   	>> ShapeManager is at "WindowCreator.java" and all creation of Shape objects and their addition to ShapeManager is to be done through 'createShapes()' user defined function there.
+   	
+    > Also the Tasks given as Excercise were also done.
+    
+    
+    PS: ~ I would be commenting The Excercise task part in "CustomPanel.java" while letting the other be non-commented, 
+	
+	~ Go through Code and if any query.... do Contact ;)
+    
+    
+    
+NOTE: """""""""""""" I used UBUNTU hence """""""""""""""""""""""
+			1) "javac WindowCreator.java" to compile
+			2) "java WindowCreator" to run
+								
+			
+
